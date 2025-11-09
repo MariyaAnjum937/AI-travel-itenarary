@@ -1,0 +1,8 @@
+{
+  "name": "AI Travel Planner",
+  "description": "An AI-powered travel assistant that creates personalized, multi-day itineraries based on your destination, trip duration, and interests. It provides a day-by-day schedule with logically grouped activities to make your travel planning seamless.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
